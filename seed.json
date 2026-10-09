@@ -1,0 +1,408 @@
+{
+ "kelas": "VIII.H",
+ "waliKelas": "Fatur Rohman Hanip, S.I.Kom.",
+ "mapel": {
+  "KOK": {
+   "nama": "Kokurikuler",
+   "warna": "#d9e6f2"
+  },
+  "ISTIRAHAT": {
+   "nama": "Istirahat",
+   "warna": "#ffffff"
+  },
+  "PP": {
+   "nama": "Pendidikan Pancasila",
+   "warna": "#f4e26b"
+  },
+  "IPS": {
+   "nama": "IPS",
+   "warna": "#9fd3f0"
+  },
+  "B. INDO": {
+   "nama": "Bahasa Indonesia",
+   "warna": "#9fcd86"
+  },
+  "IPA": {
+   "nama": "IPA",
+   "warna": "#ffffff"
+  },
+  "MTK": {
+   "nama": "Matematika",
+   "warna": "#62b055"
+  },
+  "B.SUND": {
+   "nama": "Bahasa Sunda",
+   "warna": "#ead34a"
+  },
+  "PJOK": {
+   "nama": "PJOK",
+   "warna": "#e58a63"
+  },
+  "SB/PKY": {
+   "nama": "Seni Budaya / Prakarya",
+   "warna": "#f4bd35"
+  },
+  "TIK": {
+   "nama": "TIK / Informatika",
+   "warna": "#78c496"
+  },
+  "PABP": {
+   "nama": "Pendidikan Agama dan Budi Pekerti",
+   "warna": "#2b6fd6",
+   "teks": "#ffffff"
+  },
+  "B. ING": {
+   "nama": "Bahasa Inggris",
+   "warna": "#a9d491"
+  }
+ },
+ "jadwal": {
+  "Senin": [
+   {
+    "mulai": "07:00",
+    "selesai": "08:00",
+    "kode": "KOK",
+    "guru": ""
+   },
+   {
+    "mulai": "08:00",
+    "selesai": "09:10",
+    "kode": "PP",
+    "guru": "Dra. Listianingsari Restu Handayani"
+   },
+   {
+    "mulai": "09:10",
+    "selesai": "09:45",
+    "kode": "IPS",
+    "guru": "M. Hasanudin, S.Sos.I."
+   },
+   {
+    "mulai": "09:45",
+    "selesai": "10:15",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "10:15",
+    "selesai": "12:00",
+    "kode": "B. INDO",
+    "guru": "Encep, S.Pd."
+   }
+  ],
+  "Selasa": [
+   {
+    "mulai": "07:00",
+    "selesai": "08:00",
+    "kode": "KOK",
+    "guru": ""
+   },
+   {
+    "mulai": "08:00",
+    "selesai": "09:10",
+    "kode": "IPA",
+    "guru": "Imro Atul Husna Mufida, S.Pd."
+   },
+   {
+    "mulai": "09:10",
+    "selesai": "09:45",
+    "kode": "MTK",
+    "guru": "Siti Yayah Rosidah, S.Si."
+   },
+   {
+    "mulai": "09:45",
+    "selesai": "10:15",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "10:15",
+    "selesai": "10:50",
+    "kode": "MTK",
+    "guru": "Siti Yayah Rosidah, S.Si."
+   },
+   {
+    "mulai": "10:50",
+    "selesai": "12:00",
+    "kode": "IPS",
+    "guru": "M. Hasanudin, S.Sos.I."
+   },
+   {
+    "mulai": "12:00",
+    "selesai": "12:40",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "12:40",
+    "selesai": "13:20",
+    "kode": "B. ING",
+    "guru": "Fenti Hapsari Widya Ningrum, S.Pd."
+   }
+  ],
+  "Rabu": [
+   {
+    "mulai": "07:00",
+    "selesai": "08:00",
+    "kode": "KOK",
+    "guru": ""
+   },
+   {
+    "mulai": "08:00",
+    "selesai": "09:10",
+    "kode": "B.SUND",
+    "guru": "Ai Yulianti, S.S."
+   },
+   {
+    "mulai": "09:10",
+    "selesai": "09:45",
+    "kode": "MTK",
+    "guru": "Siti Yayah Rosidah, S.Si."
+   },
+   {
+    "mulai": "09:45",
+    "selesai": "10:15",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "10:15",
+    "selesai": "10:50",
+    "kode": "MTK",
+    "guru": "Siti Yayah Rosidah, S.Si."
+   },
+   {
+    "mulai": "10:50",
+    "selesai": "12:00",
+    "kode": "TIK",
+    "guru": "Fatur Rohman Hanip, S.I.Kom."
+   },
+   {
+    "mulai": "12:00",
+    "selesai": "12:40",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "12:40",
+    "selesai": "14:00",
+    "kode": "PABP",
+    "guru": "Rohmat Sudrajat, S.Pd."
+   }
+  ],
+  "Kamis": [
+   {
+    "mulai": "07:00",
+    "selesai": "08:00",
+    "kode": "KOK",
+    "guru": ""
+   },
+   {
+    "mulai": "08:00",
+    "selesai": "09:10",
+    "kode": "IPA",
+    "guru": "Imro Atul Husna Mufida, S.Pd."
+   },
+   {
+    "mulai": "09:10",
+    "selesai": "09:45",
+    "kode": "PJOK",
+    "guru": "Davi Badya Ifandi, S.Pd."
+   },
+   {
+    "mulai": "09:45",
+    "selesai": "10:15",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "10:15",
+    "selesai": "10:50",
+    "kode": "PJOK",
+    "guru": "Davi Badya Ifandi, S.Pd."
+   },
+   {
+    "mulai": "10:50",
+    "selesai": "12:00",
+    "kode": "SB/PKY",
+    "guru": "Mia Rahmawati, S.Pd."
+   },
+   {
+    "mulai": "12:00",
+    "selesai": "12:40",
+    "kode": "ISTIRAHAT",
+    "guru": ""
+   },
+   {
+    "mulai": "12:40",
+    "selesai": "14:00",
+    "kode": "B. ING",
+    "guru": "Fenti Hapsari Widya Ningrum, S.Pd."
+   }
+  ],
+  "Jumat": [
+   {
+    "mulai": "07:00",
+    "selesai": "08:00",
+    "kode": "KOK",
+    "guru": ""
+   },
+   {
+    "mulai": "09:00",
+    "selesai": "10:20",
+    "kode": "B. INDO",
+    "guru": "Encep, S.Pd."
+   }
+  ]
+ },
+ "piket": {
+  "Senin": [
+   "Adyastha Widi Adinata",
+   "Aji Amir Maulana",
+   "Aqmal Maulana Ramadhan",
+   "Ayzzar Ravid Putra Aji",
+   "Aisyah Qinasih Ria Nur Azzah",
+   "Aleyandra Widya Pramita",
+   "Andaru Dina Ciswanto",
+   "Audy Khalieshah Dwi Pramita"
+  ],
+  "Selasa": [
+   "Daffaa Ahmad",
+   "Dzikran Fakih",
+   "Firmansyah Ramadhan",
+   "Kanza Rizqi Saputra",
+   "Aulia Rahmana",
+   "Ayu Andita Ramadhani",
+   "Azzahwa Azzila Rahma",
+   "Chelsea Cahaya Putri"
+  ],
+  "Rabu": [
+   "M. Hamdani",
+   "Muhamad Altan Rizki",
+   "Muhamad Askha Turmuji",
+   "Muhamad Haikal Hafid",
+   "Deandra Khalista",
+   "Gina Aulya Febriani",
+   "Kayla Aqillah Ulya",
+   "Khaffizah Kayra Lubna Budiman"
+  ],
+  "Kamis": [
+   "Muhamad Indra Maulana",
+   "Muhammad Ben Zidan",
+   "Muhammad Habizar Syahdit",
+   "Muhammad Raihan Saputra",
+   "Khairunnisa Permata",
+   "Khalifah Zhafira",
+   "Nur Anisa Apriani",
+   "Saskia Tri Puspita"
+  ],
+  "Jumat": [
+   "Mudaim Sucipda",
+   "Oemar Dika Arrasyid",
+   "Rafa Naufal Akhdaan",
+   "Rasya Ataya Abiyukesa",
+   "Shafna Alzena Rifaya",
+   "Shaqira Fitriana",
+   "Sintia Rahma Agustina",
+   "Syaqiya Alza Ramdani"
+  ]
+ },
+ "sosmed": [
+  {
+   "nama": "Instagram",
+   "handle": "@eightinharmony_",
+   "url": "https://www.instagram.com/eightinharmony_",
+   "warna": "linear-gradient(135deg,#f9a03c,#e1306c 50%,#7b3fe4)",
+   "teks": "#ffffff"
+  },
+  {
+   "nama": "WhatsApp Channel",
+   "handle": "Saluran kelas VIII.H",
+   "url": "https://whatsapp.com/channel/0029VbDuqy26xCSMg36q4u3a",
+   "warna": "#25d366",
+   "teks": "#0b2a1a"
+  },
+  {
+   "nama": "TikTok",
+   "handle": "@8heavenlyy_",
+   "url": "https://www.tiktok.com/@8heavenlyy_",
+   "warna": "#111111",
+   "teks": "#ffffff"
+  }
+ ],
+ "struktur": [
+  {
+   "jabatan": "Ketua Kelas",
+   "anggota": [
+    "Nur Anisa Apriani"
+   ]
+  },
+  {
+   "jabatan": "Wakil Ketua Kelas",
+   "anggota": [
+    "Andaru Dina Ciswanto"
+   ]
+  },
+  {
+   "jabatan": "Bendahara",
+   "anggota": [
+    "Khaffizah Kayra Lubna Budiman",
+    "Azzahwa Azzila Rahma"
+   ]
+  },
+  {
+   "jabatan": "Sekretaris",
+   "anggota": [
+    "Khalifah Zhafira",
+    "Aisyah Qinasih Ria Nur Azzah"
+   ]
+  },
+  {
+   "jabatan": "Seksi Pendidikan",
+   "anggota": [
+    "Muhamad Askha Turmuji",
+    "Rasya Ataya Abiyukesa"
+   ]
+  },
+  {
+   "jabatan": "Seksi Kesehatan",
+   "anggota": [
+    "Oemar Dika Arrasyid",
+    "Sintia Rahma Agustina"
+   ]
+  },
+  {
+   "jabatan": "Seksi Kreativitas",
+   "anggota": [
+    "Kayla Aqillah Ulya",
+    "Adyastha Widi Adinata"
+   ]
+  },
+  {
+   "jabatan": "Seksi Kebersihan dan Adiwiyata",
+   "anggota": [
+    "Saskia Tri Puspita",
+    "Gina Aulya Febriani"
+   ]
+  },
+  {
+   "jabatan": "Seksi Ketertiban dan Keamanan",
+   "anggota": [
+    "Muhammad Raihan Saputra"
+   ]
+  },
+  {
+   "jabatan": "Seksi Kerohanian dan Karakter",
+   "anggota": [
+    "Aleyandra Widya Pramita",
+    "Ayzzar Ravid Putra Aji"
+   ]
+  },
+  {
+   "jabatan": "Seksi Seni dan Olahraga",
+   "anggota": [
+    "Mudaim Sucipda",
+    "Aji Amir Maulana"
+   ]
+  }
+ ]
+}

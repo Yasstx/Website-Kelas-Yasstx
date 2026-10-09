@@ -1,0 +1,17 @@
+{
+  "name": "web-kelas-8h",
+  "version": "2.0.0",
+  "description": "Website kelas VIII.H: jadwal, piket, tugas, countdown, kenangan, dan chat (MySQL)",
+  "main": "kemaan.js",
+  "scripts": {
+    "start": "node kemaan.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mysql2": "3.24.5"
+  }
+}
