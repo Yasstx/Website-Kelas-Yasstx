@@ -2,10 +2,9 @@
 
 Website kelas berbasis **Node.js + MySQL** untuk jadwal, tugas/ulangan, countdown,
 piket, struktur kelas, kenangan, media sosial, dan chat berakun. Data kelas disimpan
-di database; foto dan musik berada di folder `public/`.
+di database; foto dan musik berada di folder 
 
-> GitHub dipakai untuk menyimpan kode dan kerja bersama. File rahasia seperti `.env`
-> tidak boleh diunggah ke repository.
+https://viii-heavenly.duckdns.org
 
 ## Fitur utama
 
