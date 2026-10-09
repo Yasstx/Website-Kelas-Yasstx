@@ -1,12 +1,5 @@
 # Keamanan Web Kelas VIII.H
 
-## Jujur dulu: "celah 0%" tidak ada
-
-Tidak ada website yang bisa dijamin 0% celah, dan siapa pun yang menjanjikan itu keliru. Yang bisa dilakukan:
-menutup semua celah yang diketahui, memperkecil permukaan serangan, membatasi dampak kalau ada yang lolos,
-dan mendeteksi pelakunya. Itu yang dikerjakan di sini. Sisanya (HTTPS, firewall, backup, pemantauan)
-ada di bagian "Yang masih harus ditambahkan" dan tidak bisa diselesaikan dari dalam kode.
-
 ## Lakukan sekarang, urut
 
 1. **Ganti password database.** Versi lama menaruh host, user, dan password database langsung di `db.js`,
