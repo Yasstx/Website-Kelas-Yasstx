@@ -1,4 +1,4 @@
-# Web Kelas VIII.H
+# Web Kelas 
 
 Website kelas berbasis **Node.js + MySQL** untuk jadwal, tugas/ulangan, countdown,
 piket, struktur kelas, kenangan, media sosial, dan chat berakun. Data kelas disimpan
